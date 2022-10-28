@@ -4,3 +4,6 @@ GAMMA: Sbernini Agustin
 
 a) Dentro del fork del repositorio hay un botón que se llama "Sync fork", al clickearlo hay dos opciones "Dismiss commit" para actualizar
 al 100% del repositorio original descartando tus cambios hechos o "Update branch" para actualizar los cambios nuevos sin perder tu progreso.
+
+b) Si, ALFA debe realizar un pull request desde el repositorio de GAMMA poniendo como base su propio repositorio 
+y aceptar el cambio a realizar para que se efectue el Merge.
