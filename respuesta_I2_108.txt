@@ -11,3 +11,23 @@ y aceptar el cambio a realizar para que se efectue el Merge.
 c) Si, El proceso es el mismo que el B, pero a la inversa, poniendo como base el repositorio de GAMMA.
 
 d) No necesariamente ya que podes usar update branch para que se guarden los cambio hechos y no descartar los commits.
+
+Respuesta E.
+
+Comandos necesarios para este TP.
+
+ 2. Agustin Sbernini y Maximiliano Geronimo: git clone (link del repositorio).
+ 3. Agustin Sbernini y Maximiliano Geronimo: git add . , git commit -m "texto"  y git push.
+ 4. Leandro Marecos: git clone (link del repositorio).
+ 5. Leandro Marecos: git add . , git commit -m "texto" y git push.
+ 7. Agustin Sbernini: git pull, git add . , git commit -m "texto"  y git push.
+ 9. Leandro Marecos: git pull, git add . , git commit -m "texto"  y git push.
+ 11. Maximiliano Geronimo:git pull, git add . , git commit -m "texto"  y git push.
+
+ Pasos hechos en Github:
+	
+ 1. Leandro Marecos creo el repositorio con un readme y añadio el archivo fork.txt
+ 6. Agustin Sbernini y Maximiliano Geronimo sincronizamos nuestros repositorios con el del Leando Marecos usando "Sync fork" > "dismiss commit".
+ 8. Agustin Sbernini envio un pull request a Leandro Marecos para actualizar el repositorio original.
+ 10. Maximiliano Geronimo sincronizo su repositorio usando "Sync fork" > "update branch". 
+ 12. Maximiliano Geronimo envio un pull request a Leandro Marecos para actualizar el repositorio original.
